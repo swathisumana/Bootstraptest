@@ -1,0 +1,122 @@
+.header {
+    height: 100px;
+    background-color: #66d9ff;
+}
+
+.pull-right #user {
+    padding-top: 30px;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    color: #333300;
+    cursor: default;
+    background-color: #D9EDF7;
+    border: 3px solid #6699ff;
+    border-bottom-color: rgb(#337ab7, 0, 0);
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-top: transparent;
+}
+
+.main {
+    background-image: url('../images/bck.png');
+}
+
+.btn {
+    float: right;
+}
+
+.panel-footer {
+    height: 50px;
+}
+
+.segment,
+.segment1 {
+    margin-top: 25px;
+    height: 250px;
+    border: 2px solid #337ab7;
+    border-left-width: 5px;
+    border-radius: 5px;
+}
+
+.sub-segment,
+.sub-segment1 {
+    padding-top: 10px;
+    height: 70px;
+    border-bottom: 1px solid;
+    border-bottom-color: #337ab7;
+    background-color: #b3ecff;
+}
+#p-h,#p-f{
+        background-color: #b3ecff;
+}
+
+.seg-segment,
+.seg-segment1 {
+    border-right: 1px solid;
+    border-right-color: #337ab7;
+    width: 158px;
+    display: inline-block;
+    height: 0px;
+}
+
+#a1,
+#a2,
+#b1,
+#b2,
+#l1 {
+    height: 400px;
+    width: 900px;
+}
+
+img {
+    vertical-align: initial;
+}
+
+.event1 {
+    display: none;
+}
+
+.emp {
+    margin-top: 450px;
+}
+
+#plane {
+    height: 400px;
+    background-color: #ffffb3;
+}
+
+#save {
+    float: right;
+    margin-top: 50px;
+}
+
+#close {
+    float: left;
+    margin-top: 50px;
+}
+
+#update {
+    margin-top: 50px;
+}
+
+#m1 {
+    padding-left: 100px;
+}
+
+.slide {
+    width: 800px;
+}
+
+#logo {
+    height: 120px;
+    width: 120px;
+}
+
+.last-seg {
+    display: inline-block;
+    width: 100px;
+    margin-top: 40px;
+}
